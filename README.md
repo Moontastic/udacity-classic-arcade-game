@@ -14,3 +14,12 @@ In addition to the basic functionality, you can add more cool functionality to y
 - Score: you can implement a score for the game. For example, the score can increase each time the player reaches the water, and it can be reset to 0 when collision occurs (or it can be reduced).
 - Collectibles: you can add gems to the game, allowing the player to collect them to make the game more interesting.
 - Anything else you like!
+
+# Run Game
+Click on "Clone or Download" on this repository page and download it as ZIP. Extract the folder content and open "index.html" from a browser for the game to run.
+
+# Game Rules
+The goal of the game is to reach the water side while avoiding getting hit by the bugs. When the player reaches the water side you pass to the next level where the difficulty increases making the bugs move faster. If you get hit you loose and go back to the first level.
+
+# Control
+Use the keyboard arrow keys to control the player movement direction.
